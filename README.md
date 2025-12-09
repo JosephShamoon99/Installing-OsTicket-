@@ -83,9 +83,6 @@ We will need to make IIS aware of the version we have of PHP. We can do this by 
 <h2>Setting Up The Database</h2> 
 
 <p>
-![SQL username and password](https://github.com/user-attachments/assets/61735fce-abca-47e7-b9c0-3a26eda53502)
-</p>
-<p>
 For the database you will need to install SQL and create a username and password for you the database. 
 </p>
 <br /> 
