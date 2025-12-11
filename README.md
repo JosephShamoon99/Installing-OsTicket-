@@ -15,7 +15,7 @@ Since OsTicket is a web based application, in order to install OsTicket we will 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines)
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
