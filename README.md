@@ -21,7 +21,7 @@ Since OsTicket is a web based application, in order to install OsTicket we will 
 
 <h2>Operating Systems Used</h2>
 
-- Windows 11</b> (21H2)
+- Windows 11</b> 
 
 <h2>List of Prerequisites</h2>
 
